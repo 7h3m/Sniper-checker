@@ -47,7 +47,7 @@ SNIPER CHECKER is a Python-based Discord username availability checker.
 
 1. Install Python
 
-""Download Python" (https://img.shields.io/badge/Download-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://www.python.org/downloads/)
+""Download Python" (https://www.python.org/downloads/)
 
 2. Install dependencies
 
@@ -55,7 +55,7 @@ py -m pip install curl_cffi requests tls_client
 
 3. Launch
 
-py ScanXr_Caennais.py
+py main.py
 
 ⚙️・MENU
 
