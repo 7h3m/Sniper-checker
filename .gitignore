@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+settings.json
+available.txt
+proxies.txt
+.env
+*.log
